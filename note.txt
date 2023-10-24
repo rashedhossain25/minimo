@@ -1,0 +1,18 @@
+Fonts.....
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+color...
+
+       Black-#000000
+       ash-#626262
+
+section define
+layout define - full complete
+
+sementic markup..
+code commenting..
+reuseable block.. html - css
+
+
+pixel perfect code...
