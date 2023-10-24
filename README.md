@@ -1,2 +1,1 @@
-# minimo
-minimo half project,just header to newsletter.
+ https://rashedhossain25.github.io/minimo/
