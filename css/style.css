@@ -165,3 +165,72 @@ header{
 }
 .s_form button img{} 
 /*news end*/
+
+.blog2{}
+.load{
+	margin: 100px 0 0;
+	text-align: center;
+}
+.load button{
+	width: 165px;
+	height: 60px;
+	border: 1px solid #626262;
+	background-color: transparent;
+	font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #626262;
+    transition: linear .33s;
+}
+.load button:hover{
+	background-color: #626262;
+	color: #ffffff;
+}
+/*blog2 end*/
+/*fotter start*/
+footer{
+	height: 100px;
+	background-color: #F0F0F0;
+}
+span{
+	padding-bottom: 5px;
+	color: black;
+}
+.wrapper{
+	margin: 0 auto;
+	padding-top: 21px;
+	width: 90%;
+	overflow: hidden;
+}
+.pages{
+	width: 57%;
+	float: left;	
+}
+.pages ul{}
+.pages ul li{
+	list-style: none;
+	float: left;
+}
+.pages ul li a{
+	padding-right: 19px;
+	text-decoration: none;
+	color: black;
+	transition: linear .33s;
+}
+.pages ul li a:hover{
+	color: blue;
+}
+.social{
+	width: 38%;
+	float: right;
+}
+.social ul{
+	float: right;
+}
+.social ul li{
+	margin-left: 18px;
+	list-style: none;
+	float: left;
+}
+.social ul li a{}
+/*footer end*/
